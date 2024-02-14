@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Salesforce Developer 
-- 👀 I’m interested in building apps to optimise business requirements
-- 🌱 I’m currently learning how to build and design solutions accross Salesforce platforms
+- 👀 I’m interested in building apps to optimise business processes
+- 🌱 I’m currently learning how to build and design solutions accross Salesforce platform
 - 💞️ I’m looking to collaborate on prjoects using Apex, JavaScript and LWC
 - 📫 You can send me a direct message to get in touch. 
 
